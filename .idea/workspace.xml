@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0644c53-7cd4-4f1e-bfc7-e1d651211ba7" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/BiConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/BiFunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/BiFunctionusingEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/BiPredicateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/Bifunctionusinglist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/ExtendingFunctionalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/FunctionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/FunctionUsingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/SampleFunctionalInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/ConsumerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java8features/functionalinterface/PerdIcateExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,20 +45,7 @@
       <recent name="C:\Users\Sandeep\eclipse-workspace\java8feature\src\main\java\com" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Bifunctionusinglist">
-    <configuration name="BiFunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8features.functionalinterface.BiFunctionExample" />
-      <module name="java8feature" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8features.functionalinterface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ConsumerExample">
     <configuration name="BiFunctionusingEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java8features.functionalinterface.BiFunctionusingEmployee" />
       <module name="java8feature" />
@@ -92,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8features.functionalinterface.FunctionExample" />
+    <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8features.functionalinterface.ConsumerExample" />
       <module name="java8feature" />
       <extension name="coverage">
         <pattern>
@@ -118,13 +98,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PerdIcateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8features.functionalinterface.PerdIcateExample" />
+      <module name="java8feature" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8features.functionalinterface.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsumerExample" />
+        <item itemvalue="Application.PerdIcateExample" />
         <item itemvalue="Application.Bifunctionusinglist" />
         <item itemvalue="Application.BiFunctionusingEmployee" />
         <item itemvalue="Application.FunctionUsingList" />
-        <item itemvalue="Application.FunctionExample" />
-        <item itemvalue="Application.BiFunctionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659260202041</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <created>1659284669347</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1659284669347</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
